@@ -1,2 +1,3 @@
-.RData
-.Rhistory
+# Ignore .RData and .Rhistory files
+*.RData
+*.Rhistory
