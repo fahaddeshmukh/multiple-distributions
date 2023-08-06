@@ -20,9 +20,9 @@ The project is structured as follows:
 
 
 - **bin**: This directory contains the source code files required to run the analysis.
-  - `src.py`: This R script is the main entry point for running the exploratory data analysis. It contains the code that reads the dataset and performs various data processing and visualization tasks.
+  - `source.rmd`: This R script is the main entry point for running the exploratory data analysis. It contains the code that reads the dataset and performs various data processing and visualization tasks.
   
-  - `source.md`: This markdown file provides an alternative interface for running the analysis interactively. It contains the same code as `src.py` but provides easy accessablity along with a computational narrative.
+  - `source.md`: This markdown file provides an alternative interface for running the analysis interactively. It contains the same code as `source.rmd` but provides easy accessablity along with a computational narrative.
 
 - **data**: This directory contains the dataset used for the analysis.
   - `SwimmingTimes.csv`: The CSV file that contains time taken by athletes in 5 swimming categories. The file is required for running the analysis. Please ensure that it is located in this directory.
