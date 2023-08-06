@@ -33,7 +33,7 @@ The project is structured as follows:
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and adapt the code for your own purposes.
-URL for License: https://github.com/fahaddeshmukh/Causes-of-death-analysis/blob/main/LICENSE.MD
+URL for License: https://github.com/fahaddeshmukh/multiple-distributions/blob/master/LICENSE.MD
 
 
 ## Acknowledgments
